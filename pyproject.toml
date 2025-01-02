@@ -17,15 +17,15 @@ classifiers = [
 ]
 dependencies = [
     "BASEoriginaldata>=2.0.0.dev3",
-    "biopython==1.76",
-    "openpyxl==3.0.3",
+    "biopython>=1.76",
+    "openpyxl>=3.0.3",
 ]
 description = "libBASE"
 keywords = []
 name = "libBASE"
 readme = "README.rst"
 requires-python = ">=3.7"
-version = "2.0.0.dev2"
+version = "2.0.0.dev3"
 
 [project.license]
 file = "LICENSE.txt"
