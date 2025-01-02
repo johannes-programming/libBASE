@@ -59,4 +59,3 @@ Original README.md
     J. Kreye et al., "Encephalitis patient derived monoclonal GABAA receptor antibodies cause epileptic seizures". Journal of Experimental Medicine. doi: https://doi.org/10.1084/jem.20210012.
 
     For more information, updates of the software, and instructions for standalone installations, see: https://github.com/automatedSequencing/BASE.
-    

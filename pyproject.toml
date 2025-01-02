@@ -25,7 +25,7 @@ keywords = []
 name = "libBASE"
 readme = "README.rst"
 requires-python = ">=3.7"
-version = "2.0.0.dev1"
+version = "2.0.0.dev2"
 
 [project.license]
 file = "LICENSE.txt"
