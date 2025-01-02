@@ -16,7 +16,7 @@ classifiers = [
     "Programming Language :: Python :: 3 :: Only",
 ]
 dependencies = [
-    "BASEoriginaldata>=2.0.0.dev1",
+    "BASEoriginaldata>=2.0.0.dev3",
     "biopython==1.76",
     "openpyxl==3.0.3",
 ]
